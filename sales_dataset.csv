@@ -1,0 +1,11 @@
+OrderID,CustomerID,CustomerName,Gender,Age,Product,Category,Quantity,Price,OrderDate,Region
+101,C001,Rohan Gupta,M,28,Laptop,Electronics,1,55000,2023-01-15,North
+102,C002,Priya Singh,F,24,Kurta,Apparel,2,1200,2023-01-18,West
+103,C003,Amit Verma,M,32,Mobile,Electronics,1,22000,2023-02-05,East
+104,C004,Neha Sharma,F,29,Saree,Apparel,1,2500,2023-02-20,South
+105,C002,Priya Singh,F,24,Headphones,Electronics,1,2000,2023-03-03,West
+106,C005,Arjun Mehta,M,35,Shoes,Footwear,1,3000,2023-03-10,North
+107,C006,Simran Kaur,F,27,Dress,Apparel,3,1500,2023-03-15,East
+108,C001,Rohan Gupta,M,28,Laptop,Electronics,1,60000,2023-04-01,North
+109,C007,Rajesh Kumar,M,40,Watch,Accessories,1,5000,2023-04-12,South
+110,C008,Meena Rani,F,31,Sandals,Footwear,2,1800,2023-04-25,West
